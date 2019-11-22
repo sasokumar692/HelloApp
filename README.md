@@ -4,7 +4,7 @@
 `TODO://` This app display the text "Hello". Once the button is clicked, it changes the text color from black to orange. 
 
 ### App Walk-though
-<img src=https://recordit.co/wlM2lMdaRA width=200><br>
+https://recordit.co/wlM2lMdaRA
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
